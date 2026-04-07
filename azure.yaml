@@ -6,8 +6,9 @@ metadata:
 services:
   api:
     project: .
-    language: ps
+    language: custom
     host: function
+    dist: .
 hooks:
   postprovision:
     windows:
