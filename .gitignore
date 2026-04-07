@@ -1,0 +1,12 @@
+# Azure Functions
+local.settings.json
+.python_packages/
+
+# IDE
+.vscode/.browse.c_cpp_properties.json
+.vscode/*.code-snippets
+*.code-workspace
+
+# OS
+.DS_Store
+Thumbs.db
