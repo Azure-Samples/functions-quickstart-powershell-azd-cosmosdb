@@ -10,3 +10,9 @@ local.settings.json
 # OS
 .DS_Store
 Thumbs.db
+
+# Azure Developer CLI
+.azure/
+
+# npm artifact from language: js workaround
+package-lock.json
